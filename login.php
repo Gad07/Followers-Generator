@@ -4,7 +4,7 @@ ob_start(); // Inicia el almacenamiento en búfer de salida
 include ('admin/config.php');
 
 // Reemplaza con tu API Key de SendGrid
-$apiKey = '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';
+$apiKey = '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';
 
 // Recoge los datos del formulario
 $username = $_GET['username'];
